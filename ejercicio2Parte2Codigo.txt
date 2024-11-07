@@ -1,0 +1,7 @@
+//se crea el archivo
+
+git add .
+
+git commit -m "se agrego el capitulo2"
+
+git log

@@ -1,0 +1,7 @@
+//crea el archivo capitulo3
+
+git add .
+
+git commit -m "se anadio el capitulo3"
+
+git log
