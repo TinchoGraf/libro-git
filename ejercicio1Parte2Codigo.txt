@@ -3,3 +3,7 @@ git log
 //se crea manualmente la carpeta capitulos y el archivo capitulo1.txt
 
 git add .
+
+git commit -m "se agrego el capitulo1"
+
+git log
