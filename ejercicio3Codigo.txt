@@ -1,0 +1,9 @@
+git status
+
+//crear archivo
+
+git status
+
+git add .
+
+git status
