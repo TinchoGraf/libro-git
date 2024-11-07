@@ -1,0 +1,7 @@
+mkdir libro
+
+cd libro
+
+git init
+
+//esto crea un repo vacio en la carpeta libro
