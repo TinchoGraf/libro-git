@@ -1,0 +1,5 @@
+git log
+
+//se crea manualmente la carpeta capitulos y el archivo capitulo1.txt
+
+git add .
