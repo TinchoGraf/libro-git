@@ -1,0 +1,27 @@
+git branch -b bibliografia
+
+//modificar archivo
+
+git add .
+
+git commit -m "anadiendo nueva bibliografia"
+
+git checkout master
+
+//modificar archivo
+
+git add . 
+
+git commit -m "anadiendo nueva bibliografia"
+
+git merge bibliografia
+
+//modificar archivo
+
+resolver conflicto
+
+git add .
+
+git commit -m "resuelto conflicto bibliografia"
+
+git log
