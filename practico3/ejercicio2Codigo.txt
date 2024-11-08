@@ -1,0 +1,7 @@
+//crear el archivo capitulo4 dentro de la carpeta capitulos
+
+git add .
+
+git commit -m "anadido capitulo 4"
+
+git log
