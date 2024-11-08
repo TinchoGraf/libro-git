@@ -1,0 +1,7 @@
+//crear el repo remoto en GitHub
+
+git remote
+
+git remote add origin GitHub.com/TinchoGraf/libro-git
+
+git remote
