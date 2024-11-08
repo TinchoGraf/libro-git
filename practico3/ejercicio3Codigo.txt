@@ -1,0 +1,9 @@
+git checkout bibliografia
+
+//crear archivo
+
+git add .
+
+git commit -m "anadida referencia bibliografica"
+
+git log

@@ -1,0 +1,9 @@
+git checkout master
+
+git merge bibliografia
+
+git log
+
+git branch -d bibliografia
+
+git log
