@@ -1,0 +1,15 @@
+git remote add libroCompa https://github.com/usuarioCompa/libro-git
+
+git clone https://github.com/usuarioCompa/libro-git
+
+//crear archivo
+
+git add .
+
+git commit -m "anadido autor"
+
+git push libroCompa master
+
+//modificar el mismo archivo y subirlo los dos
+
+git log
