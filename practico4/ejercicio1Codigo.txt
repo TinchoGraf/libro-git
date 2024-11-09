@@ -1,0 +1,7 @@
+//modificar el archivo indice
+
+git status
+
+git checkout -- indice
+
+git status
